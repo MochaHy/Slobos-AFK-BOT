@@ -8,7 +8,7 @@
   "server": {
     "ip": "mocha_hy.aternos.me",
     "port": 38803,
-    "version": "1.21.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
@@ -82,7 +82,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
