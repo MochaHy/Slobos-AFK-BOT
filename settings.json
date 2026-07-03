@@ -8,7 +8,7 @@
   "server": {
     "ip": "mocha_hy.aternos.me",
     "port": 38803,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
